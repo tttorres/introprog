@@ -23,11 +23,11 @@ description: Introdução à Programação de Computadores para Biologia
 
 # List of links in the navigation bar
 navbar-links:
-  Programa: "programa.md"
+  Programa: "programa/"
   Aulas:
-    - Aula01: "2018-08-03-Aula01.md"
-  Ementa: "ementa.md"
-  Grupos: "grupos.md"
+    - Aula01: "2018-08-03-Aula01/"
+  Ementa: "ementa/"
+  Grupos: "grupos/"
   
 
 # Image to show in the navigation bar - image must be a square (width = height)
