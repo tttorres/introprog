@@ -9,7 +9,7 @@ Material da primeira aula do curso “Introdução à Programação de Computado
 Link para download do eclipse: http://www.eclipse.org 
 Link para download do atom: https://atom.io  
  
-'''
+``` 
 #!/usr/bin/perl
 
 my ($E, $P, $M, $nota_final);
@@ -35,3 +35,4 @@ if ($nota_final < 5) {
 }
 exit;
 
+,,,  
