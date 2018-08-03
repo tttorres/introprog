@@ -14,7 +14,7 @@ OBS: substituir (bio) por @
 
 ## Programa:
 
-![Programa](/img/programa.png)
+![Programa](/img/programa2018.png)
 
 ## Formas de avaliação:
 
