@@ -25,7 +25,7 @@ description: Introdução à Programação de Computadores para Biologia
 navbar-links:
   Programa: "programa.md"
   Aulas:
-    - Aula01: "_posts/2018-08-03-Aula01.md"
+    - Aula01: "2018-08-03-Aula01.md"
   Ementa: "ementa.md"
   Grupos: "grupos.md"
   
