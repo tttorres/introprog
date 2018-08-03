@@ -12,7 +12,9 @@ subtitle: Introdução à Programação de Computadores para Biologia
 
 OBS: substituir (bio) por @ 
 
-![Prpgrama](/img/programa.png)
+## Programa:
+
+![Programa](/img/programa.png)
 
 ## Formas de avaliação:
 
@@ -24,7 +26,7 @@ OBS: substituir (bio) por @
 
 ## Critério para aprovação e pesos das avaliações:
 
-{% highlight perl linenos %} 
+{% highlight perl linenos %}  
 #!/usr/bin/perl
 
 my ($E, $P, $M, $nota_final);
@@ -38,7 +40,7 @@ if ($nota_final >= 5) {
   print "Aluno reprovado\n";
 }
 
-# conversao de nota para conceitos, apenas para a Pos-graduacao
+#conversao de nota para conceitos, apenas para a Pos-graduacao
 if ($nota_final < 5) {
   print "R, Reprovado, sem direito a credito\n";
 } elsif ($nota_final <= 7.0) {
