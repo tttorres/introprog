@@ -1,3 +1,10 @@
+---
+layout: default
+title: Ementa
+#image: /img/hello_world.jpeg
+---
+
+
 ## Objetivos:  
 Apresentar conceitos básicos de desenvolvimento de algoritmos e sua representação em linguagem de alto nível. Capacitar o aluno no uso da linguagem Perl. Promover o desenvolvimento e implementação de programas e sua aplicação na resolução de problemas biológicos.
 
