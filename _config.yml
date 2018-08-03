@@ -23,13 +23,11 @@ description: Introdução à Programação de Computadores para Biologia
 
 # List of links in the navigation bar
 navbar-links:
-  Programa: "Programa"
-  Ementa: "introprog/ementa.md"
-  Grupos:
+  Programa: "programa.md"
+  Ementa: "ementa.md"
+  Grupos: "grupos.md"
   Aulas:
-    - Aula01: "http://deanattali.com/beautiful-jekyll/"
-    - Aula02: "http://www.markdowntutorial.com/"
-    - Aula03: "https://pages.github.com/"
+    - Aula01: "/_posts/2018-08-03-Aula01.md"
   Author's home: "http://torres.ib.usp.br"
 
 # Image to show in the navigation bar - image must be a square (width = height)
