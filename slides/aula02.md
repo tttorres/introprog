@@ -4,7 +4,7 @@
 <center>
   
   # Introdução à Programação de Computadores para Biologia
-  # Tipos de dados
+  # Algoritmos e Introdução ao Perl
 
 </center>
 
