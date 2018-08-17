@@ -1,11 +1,12 @@
 <!-- $theme: default -->
 
 &nbsp;
-<p style="text-align: center;">Introdução à Programação de Computadores para Biologia</p>
-===
+<center>
+  
+  # Introdução à Programação de Computadores para Biologia
+  # Tipos de dado
 
-<p style="text-align: center;">Tipos de dados</p>
-===
+</center>
 
 &nbsp;
 &nbsp;
