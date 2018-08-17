@@ -1,20 +1,22 @@
 <!-- $theme: default -->
 
 &nbsp;
-<p style="text-align: center;">Introdução à Programação de Computadores para Biologia</p>
-===
+<center>
+  
+  # Introdução à Programação de Computadores para Biologia
+  # Tipos de dados
 
-<p style="text-align: center;">Algoritmos e Introdução ao Perl</p>
-===
+</center>
 
 &nbsp;
 &nbsp;
 &nbsp;
 &nbsp;
 
-##### Aula 02 (continuação)
+##### Aula 03
 
 ###### [https://tttorres.github.io/introprog/](https://tttorres.github.io/introprog/)
+
 
 ---
 
@@ -133,21 +135,21 @@
 	1.1) 3cenouras médias raladas; 
 	1.2) 4 ovos;
 	1.3) 1/2 xícara (chá) de óleo;
-	1.4) 2 xícaras (chá) de açúcar;
-	1.5) 2 1/2 xícaras (chá) de farinha de trigo;
-	1.6) 1 colher (sopa) de fermento em pó;
+	1.4) 2 xícaras (chá) de açúcar;
+	1.5) 2 1/2 xícaras (chá) de farinha de trigo;
+	1.6) 1 colher (sopa) de fermento em pó;
 2. Ligar o forno para pré aquecimento a 180oC;
-3. Bater no liquidificador as cenouras, os ovos e o óleo;
+3. Bater no liquidificador as cenouras, os ovos e o óleo;
 4. Transferir o resultado para uma vasilha;
 5. Juntar aos poucos a farinha e o açúcar;
 6. Misturar bem; 
 7. Misturar o fermento suavemente com uma colher;
 8. Se temperatura do forno estiver a 180oC: 
 	8.1) Coloque o bolo no forno; 
-9. Senão, esperar até atingir 180oC e repetir o passo 8;
+9. Senão, esperar até atingir 180oC e repetir o passo 8;
 10. Assar o bolo até que, ao espetar com um palito, o palito fique limpo;
 11. Tirar do forno; 
-12. O bolo está pronto. 
+12. O bolo está pronto. 
 ```
 
 
@@ -216,8 +218,8 @@
 	- passo(s) intermediário(s);
 	- passo final.
 4. Ao executar: 
-	- partindo de dados válidos, deve sempre terminar;
-	- partindo de dados inválidos, pode produzir lixo, ou mesmo não terminar. 
+	- partindo de dados válidos, deve sempre terminar;
+	- partindo de dados inválidos, pode produzir lixo, ou mesmo não terminar. 
 
 
 ---
