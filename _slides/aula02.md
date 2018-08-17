@@ -1,4 +1,5 @@
 ---
+layout: minimal
 title: Algoritmos e Introdução ao Perl
 ---
 
