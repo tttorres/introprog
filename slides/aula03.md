@@ -1,4 +1,6 @@
-<!-- $theme: default -->
+---
+title: Tipos de dado
+---
 
 &nbsp;
 <center>
