@@ -1,4 +1,5 @@
 ---
+layout: minimal
 title: Tipos de dado
 ---
 
