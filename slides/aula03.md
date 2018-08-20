@@ -73,27 +73,28 @@ $
 ## Variáveis 
 
 
-1. Escalares ($):
-
+1.Escalares ($):
+  
 ```perl
 my $variavel_escalar = 1; 
 my $cidade = "Sao Paulo";
-my $sequencia = "ATCCTACTGTGCGTCAGGCTAAGCTA";
+my $sequencia = "ATCCTACTGTGCGTCAGGCTAAGCTA";  
 ```
-
-2. Arrays, vetores (@):
-
-```
-
-```
-
-3. Hashes, vetores associativos (%):
+  
+2.Arrays, vetores (@):  
 
 ```
 
+```  
+  
+3.Hashes, vetores associativos (%):  
+
 ```
 
+```  
+  
 ---
+
 # VARIÁVEIS ESCALARES
 ## Variáveis 
 
@@ -103,9 +104,9 @@ my $sequencia = "ATCCTACTGTGCGTCAGGCTAAGCTA";
 ```perl
 my $cidade = "Sao Paulo";      #correto 
 my $ cidade = "Sao Paulo";     #incorreto 
-```
-
-2. 
+```  
+  
+2.  
 ```perl
 
 
