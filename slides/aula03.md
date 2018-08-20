@@ -4,12 +4,9 @@ title: Tipos de dado
 ---
 
 &nbsp;
-<center>
   
   # Introdução à Programação de Computadores para Biologia
   # Tipos de dado
-
-</center>
 
 &nbsp;
 &nbsp;
@@ -85,6 +82,7 @@ my $sequencia = "ATCCTACTGTGCGTCAGGCTAAGCTA";
 ```
 
 2. Arrays, vetores (@):
+
 ```
 
 ```
@@ -94,6 +92,7 @@ my $sequencia = "ATCCTACTGTGCGTCAGGCTAAGCTA";
 ```
 
 ```
+
 ---
 # VARIÁVEIS ESCALARES
 ## Variáveis 
