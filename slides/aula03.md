@@ -5,8 +5,8 @@ title: Tipos de dado
 
 &nbsp;
   
-  # Introdução à Programação de Computadores para Biologia
-  # Tipos de dado
+  # Introdução à Programação de Computadores para Biologia  
+  # Tipos de dado  
 
 &nbsp;
 &nbsp;
