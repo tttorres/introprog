@@ -1,12 +1,12 @@
 ---
 layout: minimal
-title: Tipos de dado
+title: Tipos de dados
 ---
 
 &nbsp;
   
-  # Introdução à Programação de Computadores para Biologia  
-  # Tipos de dado  
+# Introdução à Programação de Computadores para Biologia  
+# Tipos de dados  
 
 &nbsp;
 &nbsp;
