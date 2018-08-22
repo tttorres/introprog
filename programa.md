@@ -7,7 +7,7 @@ subtitle: Introdução à Programação de Computadores para Biologia
 
 ## 2o semestre de 2016
 
-**Horário:**    Sexta-Feira – 14:00 às 16:00 horas
+**Horário:**    Sexta-Feira – 14:00 às 16:00 horas  
 **Professora:** Tatiana Teixeira Torres, e-mail: tttorres(bio)ib.usp.br
 
 OBS: substituir (bio) por @ 
