@@ -4,14 +4,15 @@ title: Aula 04
 #image: /img/hello_world.jpeg
 ---
 
+## Apresentação
+[aula03.md](https://github.com/tttorres/introprog/slides/aula03)
+
 ## Material para aula  
 
-Link para download do Geany (IDE): [https://www.geany.org](https://www.geany.org)   
-Link para download do atom (Editor): [https://atom.io](https://atom.io)
+Arquivo em formato fasta: dmel-subset-gene-r5.45.fasta
+MD5 = 185057f6340dc01e022cbbbc7a51f343
 
-
-Apresentação: [aula03.md](https://github.com/tttorres/introprog/slides/aula03)
-
+## Exemplos
 
 {% highlight perl linenos %}#exemplo01 - hello.pl
 
