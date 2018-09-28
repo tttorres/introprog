@@ -4,6 +4,7 @@ title: Grupos
 #image: /img/hello_world.jpeg
 ---
 
+[Projetos da turma anterior (2016)](http://dreyfus.ib.usp.br/torres/introprog/Grupos.html)
 
 ## Grupo 1:  
 - Thainá Cortez Silva	
@@ -15,17 +16,17 @@ title: Grupos
 - Arthur Peixoto Berselli
 - Marco Antonio Lima Caribe Filho
 
- ## Grupo 3:
+## Grupo 3:
 - Maria Prates Rivas
 - Gabriel Augusto Ramos Cassoni
 - Helena B. da Conceição
 
- ## Grupo 4:
+## Grupo 4:
 - Barbara B. de S. Pereira
 - Nancy França Lo Man Hung
 - Guilherme B. Gomes
 
- ## Grupo 5:
+## Grupo 5:
 - Gabriela Rossi Longo
 - Pedro Mariano Martins
 - Gabriel Gonzalez Sonoda
