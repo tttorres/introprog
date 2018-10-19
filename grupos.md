@@ -27,9 +27,10 @@ title: Grupos
 - Guilherme B. Gomes
 
 ## Grupo 5:
-- Gabriela Rossi Longo
+~~- Gabriela Rossi Longo~~
 - Pedro Mariano Martins
 - Gabriel Gonzalez Sonoda
+- Oscar Damian P. Vaca
 
 ## Grupo 6:
 - Carla Antonieta da Silva Santos Chibante
@@ -37,18 +38,16 @@ title: Grupos
 - Vanessa A. S. da Cunha
 
 ## Grupo 7:
-- Rebeca Jacinto Bonfim
-- Kaique Dias de Oliveira
-- Danilo Batista Vieira de Melo
-
-## Grupo 8:
 - Larissa de O. Magalhães
 - Rebeca Bandeira Candia
-
-## Grupo 9:
 - Kassiano dos S. Sousa
 - Edgard Brown Lombardi
 
+## Grupo 7:
+~~- Rebeca Jacinto Bonfim~~
+~~- Kaique Dias de Oliveira~~
+~~- Danilo Batista Vieira de Melo~~
+
 ## Sem grupo (entrar nos grupos 8 ou 9)
-- Larissa Dianes Ferreira
-- Oscar Damian P. Vaca
+~~- Larissa Dianes Ferreira~~
+
